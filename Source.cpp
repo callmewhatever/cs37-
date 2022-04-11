@@ -1,3 +1,9 @@
+/*
+Hailee Tran
+CS 37
+Program 3
+*/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include<iostream>
 
